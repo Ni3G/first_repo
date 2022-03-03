@@ -29,6 +29,3 @@ for i in range(1,len(new4)+1):
     new5=random.choice(new4)
     final_pass=final_pass+new5
 print(final_pass)
-#pass2=pass1.append(password)
-#c=pass2.split()
-#print(c)
